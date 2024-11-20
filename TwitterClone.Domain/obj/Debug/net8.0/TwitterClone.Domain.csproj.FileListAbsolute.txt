@@ -1,0 +1,11 @@
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/bin/Debug/net8.0/TwitterClone.Domain.deps.json
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/bin/Debug/net8.0/TwitterClone.Domain.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/bin/Debug/net8.0/TwitterClone.Domain.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.AssemblyInfoInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.AssemblyInfo.cs
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.csproj.CoreCompileInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/refint/TwitterClone.Domain.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/TwitterClone.Domain.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/Debug/net8.0/ref/TwitterClone.Domain.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.API", "TwitterClone.API\TwitterClone.API.csproj", "{C828CB44-BBD4-4C9C-A6E0-B64BD3FF6041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.Application", "TwitterClone.Application\TwitterClone.Application.csproj", "{9422C5F9-8345-4748-9B1B-49A61E66285B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.Domain", "TwitterClone.Domain\TwitterClone.Domain.csproj", "{86C12C74-CE03-447B-98A3-56D2E7CCC151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.Infrastructure", "TwitterClone.Infrastructure\TwitterClone.Infrastructure.csproj", "{C6399760-D829-4E9C-A05F-D553181715D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C828CB44-BBD4-4C9C-A6E0-B64BD3FF6041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C828CB44-BBD4-4C9C-A6E0-B64BD3FF6041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C828CB44-BBD4-4C9C-A6E0-B64BD3FF6041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C828CB44-BBD4-4C9C-A6E0-B64BD3FF6041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9422C5F9-8345-4748-9B1B-49A61E66285B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9422C5F9-8345-4748-9B1B-49A61E66285B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9422C5F9-8345-4748-9B1B-49A61E66285B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9422C5F9-8345-4748-9B1B-49A61E66285B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C12C74-CE03-447B-98A3-56D2E7CCC151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C12C74-CE03-447B-98A3-56D2E7CCC151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C12C74-CE03-447B-98A3-56D2E7CCC151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C12C74-CE03-447B-98A3-56D2E7CCC151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6399760-D829-4E9C-A05F-D553181715D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6399760-D829-4E9C-A05F-D553181715D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6399760-D829-4E9C-A05F-D553181715D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6399760-D829-4E9C-A05F-D553181715D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

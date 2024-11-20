@@ -1,0 +1,40 @@
+﻿services:
+  twitterclone.api:
+    image: twitterclone.api
+    build:
+      context: .
+      dockerfile: TwitterClone.API/Dockerfile
+    ports:
+      - "8080:8080" 
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=mysql-db;Database=twitter_clone;User=root;Password=root;
+      - DOTNET_ENVIRONMENT=Development
+    depends_on:
+      mysql-db:
+        condition: service_healthy
+    command: [ "sh", "-c", "sleep 10 && dotnet TwitterClone.API.dll" ]
+
+
+  mysql-db:
+    container_name: mysql-db
+    image: mysql:8.0.34
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: twitter_clone
+    ports:
+      - "3306:3306"
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+    volumes:
+      - db_data:/var/lib/mysql
+
+networks:
+  app-network:
+    driver: bridge
+volumes:
+  db_data:

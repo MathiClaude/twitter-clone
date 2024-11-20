@@ -1,0 +1,17 @@
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Infrastructure.deps.json
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Infrastructure.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Infrastructure.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Domain.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Domain.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.csproj.AssemblyReference.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.AssemblyInfoInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.AssemblyInfo.cs
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterC.32CB51F8.Up2Date
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/refint/TwitterClone.Infrastructure.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/ref/TwitterClone.Infrastructure.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/bin/Debug/net8.0/TwitterClone.Infrastructure.runtimeconfig.json
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/Debug/net8.0/TwitterClone.Infrastructure.genruntimeconfig.cache

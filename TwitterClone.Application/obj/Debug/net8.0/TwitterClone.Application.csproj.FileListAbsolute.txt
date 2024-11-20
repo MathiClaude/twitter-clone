@@ -1,0 +1,17 @@
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Application.deps.json
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Application.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Application.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Domain.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Infrastructure.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Domain.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/bin/Debug/net8.0/TwitterClone.Infrastructure.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.csproj.AssemblyReference.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.AssemblyInfoInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.AssemblyInfo.cs
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.csproj.CoreCompileInputs.cache
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterC.FAF0AF46.Up2Date
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/refint/TwitterClone.Application.dll
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/TwitterClone.Application.pdb
+/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Application/obj/Debug/net8.0/ref/TwitterClone.Application.dll
