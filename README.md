@@ -59,4 +59,5 @@ Donde se pude apreciar tanto el usuario como el password para acceder a la misma
 He realizado el proyecto apoyandome en las ventajas que brinda la interfaz de JetBrains Rider, el cual
 proporciona una interfaz gráfica para consultar la base de datos. 
 También puedes utilizar otras herramientas como MySQL Workbench, DBeaver o la línea de comandos mysql, simplemente se deben usar 
-las credenciales ya mencionadas arriba
+las credenciales ya mencionadas arriba.
+- [JetBrains Rider](https://www.jetbrains.com/rider/)
