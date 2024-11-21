@@ -39,7 +39,11 @@ public class UserService(ApplicationDbContext context)
         {
             var loginUser = await context.Users
                 .FirstOrDefaultAsync(x => x.UserName == user.UserName);
-            
+            //usuario no encontrado
+            if (loginUser is null)
+            {
+                return Result<UserInfoDto>.Failure("Usuario no encontrado", 404);
+            }
             if(!PasswordService.VerifyPassword(loginUser.Password, user.Password))
             {
                 return Result<UserInfoDto>.Failure("Credenciales incorrectas", 401);

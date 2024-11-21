@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/TwitterClone.Infrastructure.csproj": {}
+    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/TwitterClone.Domain.csproj": {
+    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/TwitterClone.Domain.csproj",
+        "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
         "projectName": "TwitterClone.Domain",
-        "projectPath": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/TwitterClone.Domain.csproj",
-        "packagesPath": "/Users/marcosescobar/.nuget/packages/",
-        "outputPath": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/obj/",
+        "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/marcosescobar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,21 +59,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/TwitterClone.Infrastructure.csproj": {
+    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/TwitterClone.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj",
         "projectName": "TwitterClone.Infrastructure",
-        "projectPath": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/TwitterClone.Infrastructure.csproj",
-        "packagesPath": "/Users/marcosescobar/.nuget/packages/",
-        "outputPath": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Infrastructure/obj/",
+        "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "/Users/marcosescobar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -84,8 +86,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/TwitterClone.Domain.csproj": {
-                "projectPath": "/Users/marcosescobar/Projects/Personal/TwetterClone/TwitterClone.Domain/TwitterClone.Domain.csproj"
+              "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
+                "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj"
               }
             }
           }
@@ -140,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
