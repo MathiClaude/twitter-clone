@@ -47,7 +47,7 @@ public class TweetService(ApplicationDbContext context)
             var data = await context.Tweets
                 .Where(t => t.UserId == userId || userInfo.FollowersIds.Contains(t.UserId) ||
                             userInfo.FollowingIds.Contains(t.UserId))
-                .Select(u => new FeedResponseDto(u.Id, u.User.UserName, u.User.Name, u.Content, u.CreatedAt))
+                .Select(u => new FeedResponseDto(u.Id, u.User.UserName, u.User.Name, u.Content, u.CreatedAt, u.UserId))
                 .ToListAsync();
 
             return Result<List<FeedResponseDto>>.Success(data);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oq9Z3SRjy2M=",
+  "dgSpecHash": "Cgmeik0pPyfRVgdOzAqu72hbmTM2LF3SZYHt5/QRSDy5UKGMw/Z5bdb9RRCE9dMAWtoFaqHX3LOUfNhd+4j1Tg==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Application\\TwitterClone.Application.csproj",
+  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Application\\TwitterClone.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\mathi\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "byS/UfmP4nc=",
+  "dgSpecHash": "EU0brxzuqLy1fN84noJ438UDwVClsMDsWnD3JOqb8kk7nSaP8NElqMdSg09nfMpS6nmCh2g4JM/so2KcBKGrvA==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
+  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

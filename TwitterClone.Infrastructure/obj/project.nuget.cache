@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5P9lCubBjs=",
+  "dgSpecHash": "3RvVWEk/UPzsGnDsvK8IhkaxW7X7BOG1e7I4F2K2rhQbXwTqJ2X1CBJcmRRpPGp2aWHpuEXzYaPirgkdNykHaQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj",
+  "projectFilePath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mathi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

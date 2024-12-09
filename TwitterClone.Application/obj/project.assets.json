@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Application\\TwitterClone.Application.csproj",
+      "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Application\\TwitterClone.Application.csproj",
       "projectName": "TwitterClone.Application",
-      "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Application\\TwitterClone.Application.csproj",
+      "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Application\\TwitterClone.Application.csproj",
       "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Application\\obj\\",
+      "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Application\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
@@ -1273,11 +1273,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
-              "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj"
+            "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
+              "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj"
             },
-            "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj": {
-              "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj"
+            "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj": {
+              "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Infrastructure\\TwitterClone.Infrastructure.csproj"
             }
           }
         }

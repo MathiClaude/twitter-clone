@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {}
+    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
+    "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
+        "projectUniqueName": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
         "projectName": "TwitterClone.Domain",
-        "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
+        "projectPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\TwitterClone.Domain.csproj",
         "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone\\TwitterClone.Domain\\obj\\",
+        "outputPath": "D:\\Proyectos\\twitter-clone\\twitter-clone-mathi\\twitter-clone-API\\TwitterClone.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],

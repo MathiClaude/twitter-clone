@@ -21,3 +21,15 @@ D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone\TwitterClone.Domain
 D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone\TwitterClone.Domain\obj\Debug\net8.0\refint\TwitterClone.Domain.dll
 D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.pdb
 D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone\TwitterClone.Domain\obj\Debug\net8.0\ref\TwitterClone.Domain.dll
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\bin\Debug\net8.0\TwitterClone.Domain.deps.json
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\bin\Debug\net8.0\TwitterClone.Domain.dll
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\bin\Debug\net8.0\TwitterClone.Domain.pdb
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.AssemblyInfo.cs
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.sourcelink.json
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.dll
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\refint\TwitterClone.Domain.dll
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\TwitterClone.Domain.pdb
+D:\Proyectos\twitter-clone\twitter-clone-mathi\twitter-clone-API\TwitterClone.Domain\obj\Debug\net8.0\ref\TwitterClone.Domain.dll
